@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Automation Tool",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Id": "m0NOWiL3BUKxDAsX3YpvwQ",
+  "Reference": "fL4NDsxJr0ikkOatbc8WZw/m0NOWiL3BUKxDAsX3YpvwQ",
+  "ParentRef": "fL4NDsxJr0ikkOatbc8WZw/bu72nkgC70GbLEdfStyqyA",
+  "Created": "2025-11-08T17:23:09.2962749Z",
+  "Updated": "2025-11-08T17:23:09.2962749Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.8.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.10.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

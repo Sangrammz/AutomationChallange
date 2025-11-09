@@ -1,0 +1,12 @@
+﻿{
+  "Name": "Microsoft Office Activation Wizard",
+  "Type": "App",
+  "Id": "IP_4GWjIBk-gOrJ0d-5l5g",
+  "Reference": "fL4NDsxJr0ikkOatbc8WZw/IP_4GWjIBk-gOrJ0d-5l5g",
+  "Created": "2025-11-08T14:22:33.142117Z",
+  "Updated": "2025-11-08T14:22:33.142117Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.8.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.10.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

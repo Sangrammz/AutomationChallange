@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="MT4QSXkoZEeLVKrvVTEp-w" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="theautomationchallenge.com" CVScreenId="54c46ed7-5e15-425c-9ab4-e70c3a6f5327" CvElementArea="1270, 603, 266, 66" CvType="InputBox" DesignTimeRectangle="1274, 605, 259, 61" ElementType="InputBox" FuzzySelectorArgument="&lt;webctrl tabindex='39' tag='INPUT' type='input' class='bubble-element Input a1762621745398x3057' aaname='' matching:tabindex='fuzzy' fuzzylevel:tabindex='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' /&gt;" Guid="8757ad7a-4259-4e85-ad54-1654583a23f8" IsResponsive="True" ScopeSelectorArgument="&lt;html app='chrome.exe' title='The Automation Challenge' /&gt;" SearchSteps="FuzzySelector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="54c46ed7-5e15-425c-9ab4-e70c3a6f5327" CvTextArea="1271, 573, 172, 21" CvTextArgument="Automation Tool" CvType="Text" DesignTimeRectangle="1274, 566, 255, 33" ElementType="Text" FuzzySelectorArgument="&lt;webctrl aaname='Automation Tool' class='content' type='' tag='DIV' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' check:innerText='Automation Tool' /&gt;" Guid="5b04b225-6370-47d4-a145-20d95ed2b40f" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="3e49e1d22a6f5cabcabbcc017da6bdbe.png" xmlns="">0mq_DGgqK0Ey5o1lxSjetmw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

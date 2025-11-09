@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="UjqumFv8C0SDRz-fe5uJjQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="theautomationchallenge.com" CVScreenId="542db8f6-f2a2-4175-a3fc-3fb273554760" CvElementArea="984, 369, 268, 66" CvType="InputBox" DesignTimeRectangle="905, 362, 259, 61" ElementType="InputBox" FuzzySelectorArgument="&lt;webctrl tabindex='20' tag='INPUT' type='input' class='bubble-element Input a1762621745398x3057' aaname='' matching:tabindex='fuzzy' fuzzylevel:tabindex='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' /&gt;" Guid="8bfee02a-1837-4dfc-8a7b-07a71d9ebc45" IsResponsive="True" ScopeSelectorArgument="&lt;html app='chrome.exe' title='The Automation Challenge' /&gt;" SearchSteps="FuzzySelector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="542db8f6-f2a2-4175-a3fc-3fb273554760" CvTextArea="942, 383, 39, 21" CvTextArgument="EIN" CvType="Text" DesignTimeRectangle="863, 369, 42, 34" ElementType="Text" FuzzySelectorArgument="&lt;webctrl aaname='EIN' class='content' type='' tag='DIV' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' check:innerText='EIN' /&gt;" Guid="1a716be9-cce3-4780-b84e-c4e6fafd3cc9" ImageBase64="iVBORw0KGgoAAAANSUhEUgAAAC0AAAAmCAYAAABQ3RJZAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAFiUAABYlAUlSJPAAAAGWSURBVFhH7ZaxS8NAFIf7fx107ZSpe4ODUyaXFofQJQ4ZBd0qlLi2i3SQCHKTQ3EQpxQkIGQKCIXCrT+5pA3XXpJGQ89EbviWl/devuNeHukwxtA2OoeBNqClVaGlVaGlVaGlVaGlVfE/pMN7E4SQSpjTUKilcLoEZOAh3OsZwjvj+SYmK1lAhI55ng2a80xElp6m0ufXPvzHcl5Wa6GWwuaHyZMebA86mCDYyBI7akvbz3JyORWkk9sJcmpTGih9gdGQgHRNeB+HtSkNlLZBP+ew+Nxbc0RSfVOlGUM0s5L+1iySetSWHj1EiKIcYvHjE6kmnW2T7giLeL9HbelCJKkdVaUZ2MqDycdkuEAs5NaWLlx5S/laU34gzRiCO/6eHuynOIvVlj7VTGfxTYAJj/ds+Nsxab405+0WfUJgjGkyJu2QZgzvN30QYsCh6/ZIs80rXIOAGC7cy5I8gb+X5ixdGNmGKsnbUihduD1+/cNUJrMGvTJqSJ/s1/SIzBeFw8fkWF6edBvQ0qrQ0qrQ0qrQ0qr4BtP1ecB3PPAGAAAAAElFTkSuQmCC" SearchSteps="FuzzySelector, Image, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="42f4a1cce5e32f5c9a7b75334c42ca8d.png" xmlns="">0X-FZOEKj-Eqfe1JNFV9wng</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
